@@ -1,0 +1,2 @@
+include ':upgrade-build'
+project(':upgrade-build').projectDir = new File('upgrade')
